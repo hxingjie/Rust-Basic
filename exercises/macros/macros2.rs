@@ -4,7 +4,7 @@
 // hint.
 
 
-// 调整顺序
+
 macro_rules! my_macro {
     () => {
         println!("Check out my macro!");
